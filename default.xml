@@ -587,6 +587,7 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" remote="aosp" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
+  <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" />
   
   <project name="Lancora/android_hardware_qcom_audio-caf" path="hardware/qcom/audio-caf/msm7x30" remote="private" revision="cm-12.1" />
   <project name="Lancora/android_hardware_qcom_display-caf" path="hardware/qcom/display-caf/msm7x30" remote="private" revision="cm-12.1" />
